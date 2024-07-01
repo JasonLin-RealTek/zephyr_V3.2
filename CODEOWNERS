@@ -234,6 +234,7 @@
 /drivers/gpio/*kb1200*                    @ene-steven
 /drivers/gpio/gpio_altera_pio.c           @shilinte
 /drivers/gpio/gpio_ad559x.c               @bbilas
+/drivers/gpio/*rts5912*                   @JasonLin-RealTek
 /drivers/i2c/i2c_common.c                 @sjg20
 /drivers/i2c/i2c_emul.c                   @sjg20
 /drivers/i2c/i2c_ite_enhance.c            @GTLin08
