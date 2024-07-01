@@ -375,6 +375,7 @@
 /drivers/timer/*rv32m1_lptmr*             @mbolivar
 /drivers/timer/*nrf_rtc*                  @anangl
 /drivers/timer/*hpet*                     @dcpleung
+/drivers/timer/*rts5912*                  @JasonLin-RealTek
 /drivers/usb/device/usb_dc_stm32.c        @ydamigos @loicpoulain
 /drivers/i2c/*b91*                        @andy-liu-telink
 /drivers/i2c/i2c_ll_stm32*                @ydamigos
