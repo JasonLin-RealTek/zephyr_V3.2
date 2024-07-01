@@ -283,6 +283,7 @@
 /drivers/pinctrl/*esp32*                  @sylvioalves
 /drivers/pinctrl/*it8xxx2*                @ite
 /drivers/pinctrl/*kb1200*                 @ene-steven
+/drivers/pinctrl/*rts5912*                @JasonLin-RealTek
 /drivers/pm_cpu_ops/psci_shell.c          @nbalabak @gdengi
 /drivers/power_domain/                    @ceolin
 /drivers/ps2/*xec*                        @franciscomunoz @sjvasanth1
