@@ -4,7 +4,6 @@
 #
 
 config SOC_SERIES_RTS5912
-	bool "Realtek RTS5912 Series EC"
 	select ARM
 	select CPU_CORTEX_M33
 	select SOC_FAMILY_REALTEK_EC
